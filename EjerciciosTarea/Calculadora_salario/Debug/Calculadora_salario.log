@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jefersson\source\repos\ejerciciostarea\calculadora_salario\main.cpp(17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\jefersson\source\repos\ejerciciostarea\calculadora_salario\main.cpp(19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Calculadora_salario.vcxproj -> c:\users\jefersson\source\repos\EjerciciosTarea\Debug\Calculadora_salario.exe

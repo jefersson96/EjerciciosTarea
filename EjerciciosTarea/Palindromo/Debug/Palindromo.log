@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\jefersson\source\repos\ejerciciostarea\palindromo\main.cpp(6): warning C4101: 'b1': variable local sin referencia
+  Palindromo.vcxproj -> c:\users\jefersson\source\repos\EjerciciosTarea\Debug\Palindromo.exe

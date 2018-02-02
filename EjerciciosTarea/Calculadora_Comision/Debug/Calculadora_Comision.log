@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\jefersson\source\repos\ejerciciostarea\calculadora_comision\main.cpp(19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Calculadora_Comision.vcxproj -> c:\users\jefersson\source\repos\EjerciciosTarea\Debug\Calculadora_Comision.exe
